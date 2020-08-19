@@ -1,0 +1,1 @@
+<?phpnamespace Common\Model;use Think\Model;class DaishouRechageModel extends Model{}
